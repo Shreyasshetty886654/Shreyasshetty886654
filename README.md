@@ -28,5 +28,9 @@ _(coming soon)_
 ---
 
 ### 🌐 Where to find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.comhttp://www.linkedin.com/in/shreyas-d-s-5a6b4325b](http://www.linkedin.com/in/shreyas-d-s-5a6b4325b))
+### 🌐 Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/shreyas-d-s-5a6b4325b)
+
+
 
