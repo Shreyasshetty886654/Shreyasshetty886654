@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Noor Hafow Bare
+# Hi there 👋 I'm SHREYAS D S
 
 I'm a **Full-Stack Developer** and **Data Analyst** with a passion for building scalable web applications and uncovering insights through data.
 
